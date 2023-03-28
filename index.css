@@ -12,7 +12,7 @@ body{
     background: none;    
 }
 
-@media (min-width:1440px){
+@media (min-width:768px){
     .header{
         height: 181px;
         width: auto;
@@ -28,7 +28,7 @@ body{
     justify-content: space-between;
 }
 
-@media (min-width:1440px){
+@media (min-width:768px){
     .contenedor-header{
         height: 109px;
         padding: 36px 80px;
@@ -40,7 +40,7 @@ body{
     height: 50px;
 }
 
-@media (min-width:1440px){
+@media (min-width:768px){
     .logo{
         width: 95px;
         height: 109px;
@@ -57,7 +57,7 @@ body{
     justify-content: space-between;
 }
 
-@media (min-width: 1440px){
+@media (min-width: 768px){
     .menu{
         Width: 428px;
         Height: 28px;
@@ -72,7 +72,7 @@ body{
     font-size: 0px;
 }
 
-@media (min-width: 1440px){
+@media (min-width: 768px){
     .parrafo-menu{
         font-family: Roboto;
         font-size: 24px;
@@ -95,7 +95,7 @@ body{
     background-color: black;    
 }
 
-@media (min-width: 1440px){
+@media (min-width: 768px){
     .menu-barra{
         Width: 0px;
         Height: 0px;
@@ -112,7 +112,7 @@ body{
     justify-content: flex-end;
 }
 
-@media (min-width: 1440px){
+@media (min-width: 768px){
     .seccion1{
         height: 435px;
         width: auto;
@@ -127,7 +127,7 @@ body{
     align-self: center;
 }
 
-@media (min-width: 1440px){
+@media (min-width: 768px){
     .foto-perfil{
         width: auto;
         height: 395px;
@@ -148,7 +148,7 @@ body{
     letter-spacing: -1px;
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 768px) {
     .titulo{
         width: 313px;
         align-self: flex-start;
@@ -167,7 +167,7 @@ body{
     justify-content: flex-start;
 }
 
-@media (min-width:1440px){
+@media (min-width:768px){
     .seccion2{
         width: auto;
         flex-direction: row-reverse;
@@ -176,7 +176,7 @@ body{
     }
 }
 
-@media (min-width:1440px){
+@media (min-width:768px){
     .contenedor-seccion2{
         grid-column: 2;
         margin-top: 132px;
@@ -199,7 +199,7 @@ body{
     margin: 55px 0 0 0 ;
 }
 
-@media (min-width:1440px){
+@media (min-width:768px){
     .subtitulo-secc2{
         text-align: start;
         margin: 0 0 28px 0;
@@ -217,7 +217,7 @@ body{
     margin: 41px 0 0 0;
 }
 
-@media (min-width:1440px){
+@media (min-width:768px){
     .parrafo{
         width: 532px;
         font-size: 24px;
@@ -233,7 +233,7 @@ body{
     margin: 57px 0 0 0;
 }
 
-@media (min-width: 1440px){
+@media (min-width: 768px){
     .imagen{
         width: 211px;
         height: 211px;
@@ -252,7 +252,7 @@ body{
     align-items: center;
 }
 
-@media (min-width:1440px){
+@media (min-width:768px){
     .seccion3{
         height: 604px;
         width: auto;
@@ -265,7 +265,7 @@ body{
     margin: 69.76px 0 -60.54px 0 ;
 }
 
-@media (min-width:1440px){
+@media (min-width:768px){
     .subtitulo-secc3{
         margin: 59px 0 76px 0;
         width: 403px;
@@ -284,7 +284,7 @@ body{
     margin: 0;
 }
 
-@media (min-width:1440px){
+@media (min-width:768px){
     .contenedor-seccion3{
         flex-direction: row;
     }
@@ -297,7 +297,7 @@ body{
     margin: 108.99px 0 0 0;
 }
 
-@media(min-width:1440px){
+@media(min-width:768px){
     .subcontenedor-seccion3{
         margin: 0;
     }
@@ -325,7 +325,7 @@ body{
     margin: 18.99px 0 0 0;
 }
 
-@media(min-width:1440px){
+@media(min-width:768px){
     .subtitulo2-secc3{
         margin: 19px 0 15px 0;
     }
@@ -344,7 +344,7 @@ body{
     margin: 15px 0 0 0;
 }
 
-@media(min-width:1440px){
+@media(min-width:768px){
     .parrafo-secc3{
         margin: 0;
     }
@@ -359,7 +359,7 @@ body{
     align-items:center
 }
 
-@media(min-width:1440px){
+@media(min-width:768px){
     .seccion4{
         width: auto;
         flex-direction: row;
@@ -372,7 +372,7 @@ body{
     margin: 69.76px 0 0 0;
 }
 
-@media(min-width:1440px){
+@media(min-width:768px){
     .subtitulo-secc4{
         width: 271px;
         font-size: 48px;
@@ -392,7 +392,7 @@ body{
     margin-top: 11.41px;
 }
 
-@media(min-width:1440px){
+@media(min-width:768px){
     .contenedor-fieldset{
         margin: 0;
     }
@@ -447,7 +447,7 @@ body{
     background: #DBDBDB;
 }
 
-@media(min-width:1440px){
+@media(min-width:768px){
     .footer{
         width: auto;
         height: 346px;
@@ -472,7 +472,7 @@ body{
     margin: 53px 0 18px 16px;
 }
 
-@media(min-width:1440px){
+@media(min-width:768px){
     .imagen-footer{
       margin:0 0 18px 0;
       width: 107px;
@@ -491,7 +491,7 @@ body{
     margin: 0 0 85px 18px;
 }
 
-@media(min-width:1440px){
+@media(min-width:76px){
     .parrafo-footer{
         margin: 0;
         text-align: center;
